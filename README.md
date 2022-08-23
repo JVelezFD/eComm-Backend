@@ -21,7 +21,7 @@
   This app requires Node, Sequelize and their dependencies
 
   ##Usage
-  Here is the video link of the demo : https://drive.google.com/file/d/1V8V43FPY1LJQvBrNysOFq_Ijh8ngQ5Yi/view
+  Here is the video link of the demo : https://watch.screencastify.com/v/wCaz8GsTJo50Bixd1us0
 
   ##Contribute
   No contributions necessary
