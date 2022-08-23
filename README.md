@@ -1,5 +1,8 @@
 
   # eComm Backend
+  
+  ![APIcall](https://user-images.githubusercontent.com/101678295/186048863-95688de3-5c44-4869-9a30-04204c10c4ff.PNG)
+
 
   ## Description 
   This app will demo how MYSQL database is created, how we connect via sequelize between Node JS and MYSQL and Postman to show the outcome of each route.
