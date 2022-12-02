@@ -2,23 +2,23 @@
   # eComm Backend
   
   ![APIcall](https://user-images.githubusercontent.com/101678295/186048863-95688de3-5c44-4869-9a30-04204c10c4ff.PNG)
+  
+# eComm Backend
+<table>
+<tr>
+<td>
+ This app will demo how MYSQL database is created, how we connect via sequelize between Node JS and MYSQL and Postman to show the outcome of each route.
+</td>
+</tr>
+</table>
 
-
-  ## Description 
-  This app will demo how MYSQL database is created, how we connect via sequelize between Node JS and MYSQL and Postman to show the outcome of each route.
-
-  ## Table of Contents
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[Contribute](#contribute)
-  -[Tests](#tests)
-  -[Credits](#credits)
-  -[Features](#features)
-  -[License](#license)
-
+  
   ##Installation
-  This app requires Node, Sequelize and their dependencies
+  - This app requires Node, Sequelize and their dependencies
+  - Clone repo 
+  - Install dependencies
+  - NPM run Seed: seeds your Database
+  - NPM server.js: connects to database and allows you to run the routes
 
   ##Usage
   Here is the video link of the demo : https://watch.screencastify.com/v/wCaz8GsTJo50Bixd1us0
@@ -29,16 +29,7 @@
   ##Tests
   none
 
-  ##Credits
-  undefined
+  ##Build With
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,js,mysql,ex&perline=7)](https://skillicons.dev)
 
-  ##Features
-  None
-
-  ##License
-  N/A
-
-  ##Questions
-  If you have any questions email me @ jvelez117@gmail.com
-  Check out my github profile to view other projects and this one at https://github/JVelezFD
-
+  
