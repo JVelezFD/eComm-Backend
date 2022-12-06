@@ -15,7 +15,7 @@
   ## Installation
 This app requires node.js, mysql2, sequelize, express, and dotenv, and their assorted dependencies, all of which can be installed through NPM.
 
- ##Usage
+ ## Usage
   Here is the video link of the demo : https://drive.google.com/file/d/1V8V43FPY1LJQvBrNysOFq_Ijh8ngQ5Yi/view
   After the necessary dependencies have been generated, open a new terminal and cd into the program directory. Run "npm run   seed" to seed the databases with data, then "npm start" to initialize the application.
 
